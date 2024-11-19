@@ -1,2 +1,4 @@
 # COBOL-Practice
-Practice COBOL programs I've written
+These are just random COBOL programs I wrote to practive COBOL.
+
+Compiled using GnuCOBOL.
